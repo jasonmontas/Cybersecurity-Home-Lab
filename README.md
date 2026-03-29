@@ -8,3 +8,6 @@ This repository showcases my cybersecurity home lab projects, which are a collec
 
 ### 1 Cybersecurity Tools
 - [Exploring Ubuntu Home Lab] (1%20Cybersecurity%20Tools/Exploring%20Ubuntu%20Home%20Lab.md)
+
+### 2 Environment Variable & Set-UID Program
+- [Environment Variable & Set-UID Program Lab] (2%Environment%Variable%&%Set-UID%Program%Lab\Environment%Variable%Set-UID%Program.md)
